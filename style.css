@@ -1,0 +1,130 @@
+.topp{
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('top.jpg');
+    padding-top: 30px;
+    padding-bottom: 30px;
+    position: relative;
+    color: white;
+}
+
+.click{
+    margin-left: 81%;
+    padding-left: 2%;
+}
+
+.hd{
+    color: white;
+    padding-right: 10px;
+}
+
+.toplink{
+   margin-top: 2%;
+   padding-left: 2%;
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+
+.midlink{
+   padding-left: 1%;
+   padding-bottom: 10px;
+}
+
+.drop{
+    padding-left: 1%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.radio{
+    padding-left: 1%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.show{
+    padding-left: 1%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.cd{
+    text-align: center;
+}
+
+h3{
+    padding-top: 2.5%;
+    padding-left: 2%;
+}
+
+h5{
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+
+.icon{
+    margin-top: 2%;
+    padding-left: 2%;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+i{
+    padding-bottom: 2%;
+}
+
+i:hover{
+    color: purple;
+}
+
+img:hover {
+    transform: scale(1.06);
+}
+
+p{
+    padding-bottom: 5%;
+}
+
+.footer{
+    padding-top: 3%;
+    color: white;
+    padding-bottom: 2%;
+}
+
+.ftb{
+    background-color: purple;
+    color: white;
+    margin-right: 20%;
+}
+
+.mid{
+    text-align: center;
+}
+
+.mid1{
+    text-align: center;
+    margin: 0%;
+}
+
+.picture{
+    padding-bottom: 3%;
+}
+
+.car{
+    height: 30rem;
+    width: 30rem;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-size: cover;
+}
+
+.ftimg{
+    width: 8rem;
+    height: 8rem;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.ftworld{
+    margin-left: 20%;
+    margin-right: 20%;
+}
